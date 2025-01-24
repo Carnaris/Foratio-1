@@ -1,5 +1,5 @@
 local IsStudio = false
-local GameName = "Universal"
+local GameName = "Criminality"
 local GameId = game.GameId
 
 -- 初始化 Players 和 LocalPlayer
